@@ -8,8 +8,8 @@ Modified @ Farzain - zFz
 
 require_once('./line_class.php');
 require_once('./unirest-php-master/src/Unirest.php');
-
-$channelAccessToken 'npnTeTLU1RkOW13ptVjU7n3Lnrv37sANu3Eh0e4 + H8ViD + hcbvP9WLaUt + ZRjG3bOxDYldg1cyc + rWtjU + 34p + fDxEN6dFiW / gq6OSGj + 6U / p8Prvzfg619qEjYEYVeFGI2qIzQDlNdVun7URmKp7wdB04t89 / 1O / w1cDnyilFU ='; //sesuaikan 
+the
+$ channelAccessToken  =  '  npnTeTLU1RkOW13ptVjU7n3Lnrv37sANu3Eh0e4 + H8ViD + hcbvP9WLaUt + ZRjG3bOxDYldg1cyc + rWtjU + 34p + fDxEN6dFiW / gq6OSGj + 6U / p8Prvzfg619qEjYEYVeFGI2qIzQDlNdVun7URmKp7wdB04t89 / 1O / w1cDnyilFU = ' ؛ // sesuaikan
 $channelSecret = 'a7b76040cea20ce53c45b2088714fcc3';//sesuaikan
 
 $client = new LINEBotTiny($channelAccessToken, $channelSecret);
